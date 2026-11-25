@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "น้ำผึ้ง สดชื่น",
+    "mood": "fresh",
+    "type": "squeeze",
+    "size": "50ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "น้ำผึ้งแท้รสหวานเบา กลิ่นสะอาดสดชื่น เหมาะกับชา น้ำมะนาว และโยเกิร์ต ขวดบีบพกพาง่าย"
+  },
+  {
+    "id": 2,
+    "name": "น้ำผึ้ง หวานละมุน",
+    "mood": "sweet",
+    "type": "jar",
+    "size": "250ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "น้ำผึ้งแท้รสหวานนุ่ม กลิ่นดอกไม้อ่อนๆ อบอุ่นละมุน ขนาดใหญ่ทานคุ้มยาว"
+  },
+  {
+    "id": 3,
+    "name": "น้ำผึ้ง มั่นใจ",
+    "mood": "confident",
+    "type": "squeeze",
+    "size": "50ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "น้ำผึ้งแท้รสเข้มข้นกลมกล่อม กลิ่นหอมลึกแบบพรีเมียม เหมาะกับทุกโอกาสสำคัญ ขวดบีบพกพาง่าย"
+  }
+]
